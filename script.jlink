@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "D:\RT1061\MCUXPRESSO\impulse_mcuboot_opensource\Release\impulse_mcuboot_opensource.hex"
+qc
+
+qc
